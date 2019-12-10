@@ -14,5 +14,6 @@
 
 
 def speak_to_grandma(phrase)
-  if(Phrase)
+  if(phrase.upcase == phrase)
+    return ""
 end
